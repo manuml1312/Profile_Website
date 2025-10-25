@@ -21,23 +21,16 @@ function About() {
           <div className="grid md:grid-cols-2 gap-12 items-center mb-16">
             <div>
               <p className="text-lg text-[var(--text-secondary)] mb-6">
-                AI Engineer with 3+ years of experience delivering scalable, 
-                production-grade machine learning solutions across enterprise and 
-                healthcare domains. Led a team of 5 to develop and deploy a RAG-based 
-                chatbot achieving 0.97 context precision for 2000+ users, while 
-                optimizing data pipelines to reduce processing time by 70% 
-                and memory utilization by 50% on 135GB datasets.
+                I'm an AI Engineer specializing in Generative AI and NLP solutions with 3+ years of experience. 
+                Currently pursuing MSc in Data Science at MAHE Manipal, I've built my expertise through 
+                hands-on experience at companies like Sooth Sayer Analytics and UgdxLabs, focusing on 
+                RAG systems and enterprise AI solutions.
               </p>
-              <p className="text-lg text-[var(--text-secondary)]">
-                As Founder and CTO of Arogyan, architected and deployed an
-                AI Health Assistant using Agentic RAG on GCP, demonstrating end-to-end
-                ownership from conception to production. Proven expertise in fine-tuning 
-                Large Language Models (BERT, RoBERTa, Bloom 7b achieving 0.65 BLEU score),
-                building ensemble ML systems, and implementing robust CI/CD pipelines 
-                across AWS, Azure, and GCP. Track record of translating complex business 
-                requirements into measurable AI solutions, with hands-on experience in MLOps, 
-                cross-functional collaboration, and delivering systems that drive tangible business impact. 
-                Currently pursuing MSc in Data Science at MAHE Manipal (CGPA: 8.09/10).
+              <p className="text-lg text-[var(--text-secondary)] mb-6">
+                My work spans from leading teams to develop production-ready chatbots serving 2000+ users 
+                with 0.97 precision, to optimizing ML pipelines that reduced processing time by 70% on 
+                135GB datasets. I'm passionate about translating complex AI capabilities into scalable, 
+                business-driven solutions that deliver measurable impact.
               </p>
             </div>
             <div className="grid grid-cols-2 gap-6">
