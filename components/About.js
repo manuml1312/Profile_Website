@@ -27,7 +27,7 @@ function About() {
                 RAG systems and enterprise AI solutions.
               </p>
               <p className="text-lg text-[var(--text-secondary)] mb-6">
-                My work spans from leading teams to develop production-ready chatbots serving 2000+ users 
+                My work spans from leading teams to develop production-ready chatbots serving 10000+ users 
                 with 0.97 precision, to optimizing ML pipelines that reduced processing time by 70% on 
                 135GB datasets. I'm passionate about translating complex AI capabilities into scalable, 
                 business-driven solutions that deliver measurable impact.
